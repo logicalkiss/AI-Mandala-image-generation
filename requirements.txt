@@ -5,4 +5,6 @@ MarkupSafe
 itsdangerous
 click
 tensorflow
-keras 
+keras
+Pillow
+Gunicorn 
